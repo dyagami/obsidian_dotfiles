@@ -1,0 +1,244 @@
+{
+  "workspaces": {
+    "Main": {
+      "main": {
+        "id": "1dc8fdeb8b50a840",
+        "type": "split",
+        "children": [
+          {
+            "id": "c3cdb942fdf32bb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1965bda0e870c10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Work/Open cases/(m) (F-6-28) 784845 IDT Client Access Waddell QCL REFIDT0021077.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "34fb7f19a41d8ef3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Work/Open cases/(m) (F-F) 778671 IDT Mail Compromise Scirbona 4UQ REFIDT0020726.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5387bcc308b01356",
+        "type": "split",
+        "children": [
+          {
+            "id": "0af64f3a88798fff",
+            "type": "tabs",
+            "dimension": 73.21772639691714,
+            "children": [
+              {
+                "id": "6a57882d81cf5aa6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ae4629d7e4f00052",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "97b0c95010e93255",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72fc980d057042f2",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d1c63ca9423d6182",
+            "type": "tabs",
+            "dimension": 26.78227360308285,
+            "children": [
+              {
+                "id": "e29b5d95d8932e6e",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Stuff/background.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 384.5
+      },
+      "right": {
+        "id": "7593e00af422a20b",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f665744dbfcdb33",
+            "type": "tabs",
+            "dimension": 43.148148148148145,
+            "children": [
+              {
+                "id": "0e211c6f11b7834f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Work/Open cases/(m) (F-6-28) 784845 IDT Client Access Waddell QCL REFIDT0021077.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "af5391d589faa9e5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Work/Open cases/(m) (F-6-28) 784845 IDT Client Access Waddell QCL REFIDT0021077.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8265637adcf4274f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Work/Open cases/(m) (F-6-28) 784845 IDT Client Access Waddell QCL REFIDT0021077.md"
+                  }
+                }
+              },
+              {
+                "id": "57a23b4f570ef9fb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "9fcacbfc922f6b6e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "da6ebe00dacae2dc",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "926adeba592c6407",
+            "type": "tabs",
+            "dimension": 56.851851851851855,
+            "children": [
+              {
+                "id": "afa4b3e23ffa59e1",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2f1050781b1254b4",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "pomodoro-widget:Toggle pomodoro widget.": false,
+          "widgets:Add widget": false
+        }
+      },
+      "active": "b1965bda0e870c10",
+      "mtime": "2024-06-27T18:08:16+02:00"
+    }
+  },
+  "active": "Main"
+}

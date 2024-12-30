@@ -1,0 +1,15 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-blackout",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
+  "encore-settings@@encore-fancy-headers": false,
+  "ap-theme@@ap-radius-s": 9,
+  "ap-theme@@ap-radius-m": 12,
+  "ap-theme@@ap-radius-l": 15,
+  "ap-theme@@theme-dark": "a-theme-apatheia",
+  "ap-theme@@glassMorphism": false,
+  "ap-theme@@smoothIndent": false,
+  "ap-theme@@Fade": true,
+  "ap-theme@@Hover": true
+}
